@@ -12,8 +12,16 @@ Tool De Doxeo
 - `ID > TOKEN`
 - `y mas`
 
-```git clone https://github.com/nadiedll/PussyTool2023
+```
+git clone https://github.com/nadiedll/PussyTool2023
+```
+```
 cd PussyTool2023
+```
+```
 pip3 install -r requirements
+```
+```
 pytho3 main.py
 ```
+
