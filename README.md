@@ -19,7 +19,7 @@ git clone https://github.com/nadiedll/PussyTool2023
 cd PussyTool2023
 ```
 ```
-pip3 install -r requirements
+pip3 install -r requirements.txt
 ```
 ```
 pytho3 main.py
