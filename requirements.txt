@@ -1,0 +1,12 @@
+requests
+os
+socket
+time
+random
+datetime
+subprocess
+discord
+platform
+colorama
+faker
+pystyle
